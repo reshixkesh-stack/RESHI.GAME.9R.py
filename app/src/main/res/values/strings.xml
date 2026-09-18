@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Puzzle</string>
+    <string name="mode_crossgrid">Crossgrid</string>
+    <string name="mode_target">Target 24</string>
+    <string name="mode_path">Math Flow</string>
+    <string name="mode_daily">Daily Blitz</string>
+</resources>
+

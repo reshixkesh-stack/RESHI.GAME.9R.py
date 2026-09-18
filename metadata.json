@@ -1,0 +1,7 @@
+{
+  "name": "Reshikesh Project 1 (9R)",
+  "description": "An engaging mental math puzzle game featuring equation crossgrids, target number builder, arithmetic paths, and daily speed challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
